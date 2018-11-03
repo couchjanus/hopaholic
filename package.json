@@ -1,0 +1,24 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "Shopaholic site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couchjanus/hopaholic.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "php"
+  ],
+  "author": "Janus Nic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/couchjanus/hopaholic/issues"
+  },
+  "homepage": "https://github.com/couchjanus/hopaholic#readme"
+}
